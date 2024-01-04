@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(237, 236, 236);
+}
+.section-center{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin: 50px 265px;
+}
+.info{
+    /* border: 1px solid red; */
+    margin-left: 22px;
+    line-height: 20px;
+}
+.info h3{
+    color: #5185a4;
+    font-size: 22px;
+}
+
+.deadline{
+    display: flex;
+}
+.deadline-format{
+    /* border: 1px solid green; */
+    margin: 10px;
+    text-align: center;
+    width: 54px;
+    background-color: #202020;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 3px;
+}
+.img img{
+    height: 285px;
+    width: 362px;
+}
